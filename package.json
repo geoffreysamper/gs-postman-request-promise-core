@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "node-version": "~1.0.0",
-    "publish-please": "~2.4.1"
+    "publish-please": "^5.5.1"
   }
 }
